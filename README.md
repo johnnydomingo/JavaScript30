@@ -1,2 +1,2 @@
 # JavaScript30
-  30 Days - 30 Projects. No libraries - just JavaScript
+  30 Day JavaScript Challenge
